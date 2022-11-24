@@ -1,0 +1,20 @@
+{
+  "name": "se-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve -s ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karan-Shah-2513/SE-CI-CD.git"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karan-Shah-2513/SE-CI-CD/issues"
+  },
+  "homepage": "https://github.com/Karan-Shah-2513/SE-CI-CD#readme"
+}
